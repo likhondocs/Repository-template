@@ -16,11 +16,7 @@ ptcLAB is a comprehensive Pay Per Click (PTC) platform built with Laravel. It of
 
 ---
 
-## 🚀 Features
 
-### 🛠️ Easy Page Builder
-- Fast, intuitive, and smart page builder for quick customization
-- Layouts ready for publishing in minutes
 
 ### 🔧 Framework
 - Built on the latest Laravel Framework
